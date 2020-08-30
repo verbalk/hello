@@ -43,7 +43,7 @@ function App() {
           <Pane flex={1} alignItems="center" display="flex">
             <Heading display="contents" color={'white'} size={400}>
               <img style={{ marginRight: 4 }} src="./glogow.svg" />
-              GHOST MOVIE
+              GHOST MOVIEf
             </Heading>
           </Pane>
 
